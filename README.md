@@ -1,5 +1,9 @@
 # google_api
 
+slides Pyvo https://www.slideshare.net/slideshow/embed_code/243400829
+
+
+
 * [Google Cloud Platform](https://console.cloud.google.com/)
 
 cloud API $$$
