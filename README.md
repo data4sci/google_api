@@ -2,22 +2,9 @@
 
 slides Pyvo https://www.slideshare.net/slideshow/embed_code/243400829
 
-
-
-* [Google Cloud Platform](https://console.cloud.google.com/)
-
-cloud API $$$
-
-developers console / api manager
-
-* [Dashboard – APIs & Services – Google API Console](https://console.developers.google.com/projectselector2/apis/dashboard?pli=1&supportedpurview=project)
-
-
+free VS cloud API $$$
 
 nejsem Sysadmin => serverless !!! Autoscaling (neběží = neplatím)
-
-
-
 
 compute engine - cloud.google.com/compute
 micro - free VM
@@ -62,6 +49,7 @@ flutter - dart lang, dev mobile aps
 
 ## Services
 * [Compute Engine: Virtual Machines (VMs)  |  Google Cloud](https://cloud.google.com/compute)
+  >All customers get a general purpose machine (f1-micro instance) per month for free
 * [Serverless Computing Solutions  |  Google Cloud](https://cloud.google.com/serverless)
 * [Cloud Run: Container to production in seconds  |  Google Cloud](https://cloud.google.com/run)
 * [Cloud Functions  |  Google Cloud](https://cloud.google.com/functions)
@@ -73,7 +61,6 @@ flutter - dart lang, dev mobile aps
 * [BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery)
 * [Cloud Translation  |  Google Cloud](https://cloud.google.com/translate)
 
-
 ## ML
 * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
 * [Vision AI | Derive Image Insights via ML  |  Cloud Vision API](https://cloud.google.com/vision)
@@ -82,7 +69,7 @@ flutter - dart lang, dev mobile aps
 
 ## Data Sci
 * [Public Datasets  |  Google Cloud](https://cloud.google.com/public-datasets)
-
+* [BigQuery public datasets  |  Google Cloud](https://cloud.google.com/bigquery/public-data)
 
 ## Tutorials
 * [Quickstart for Python 3 in the App Engine Standard Environment](https://cloud.google.com/appengine/docs/standard/python3/quickstart)
