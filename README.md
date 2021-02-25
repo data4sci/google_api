@@ -70,6 +70,7 @@ flutter - dart lang, dev mobile aps
 * [Vision AI | Derive Image Insights via ML  |  Cloud Vision API](https://cloud.google.com/vision)
 * [Video AI - Video Content Analysis | Google Cloud](https://cloud.google.com/video-intelligence)
 * [Cloud AutoML Custom Machine Learning Models  |  Google Cloud](https://cloud.google.com/automl)
+* [From Notebook to Kubeflow Pipelines with HP Tuning: A Data Science Journey](https://codelabs.developers.google.com/codelabs/cloud-kubeflow-minikf-kale-katib#0)
 
 ## Data Sci
 * [Data Analytics | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics)
