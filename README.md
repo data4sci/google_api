@@ -2,6 +2,10 @@
 
 slides Pyvo https://www.slideshare.net/slideshow/embed_code/243400829
 
+## Examples / How-to
+* [How to Extract the Text from PDFs Using Python and the Google Cloud Vision API | by Silvia Zeamer | Feb, 2021 | Towards Data Science](https://towardsdatascience.com/how-to-extract-the-text-from-pdfs-using-python-and-the-google-cloud-vision-api-7a0a798adc13)
+
+
 free VS cloud API $$$
 
 nejsem Sysadmin => serverless !!! Autoscaling (neběží = neplatím)
