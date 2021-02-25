@@ -68,6 +68,7 @@ flutter - dart lang, dev mobile aps
 * [Cloud AutoML Custom Machine Learning Models  |  Google Cloud](https://cloud.google.com/automl)
 
 ## Data Sci
+* [Data Analytics | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics)
 * [Public Datasets  |  Google Cloud](https://cloud.google.com/public-datasets)
 * [BigQuery public datasets  |  Google Cloud](https://cloud.google.com/bigquery/public-data)
 
