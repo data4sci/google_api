@@ -65,6 +65,19 @@ flutter - dart lang, dev mobile aps
 * [BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery)
 * [Cloud Translation  |  Google Cloud](https://cloud.google.com/translate)
 
+## Firebase
+
+>Firebase is Google's mobile development platform.
+>* Helps you build apps and grow your user base.
+>* Used by client-side app developers (both web & mobile).
+>* Used for building a new mobile app, augmenting an existing app with new functionality and growing an audience.
+
+* [Firebase & Google Cloud](https://firebase.google.com/firebase-and-gcp)
+* [GCP vs. Firebase - Projects & storage - YouTube](https://www.youtube.com/watch?v=zR6CsTLTPsk)
+* [GCP vs. Firebase - Functions & Firestore - YouTube](https://www.youtube.com/watch?v=zR6CsTLTPsk)
+
+
+
 ## ML
 * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
 * [Vision AI | Derive Image Insights via ML  |  Cloud Vision API](https://cloud.google.com/vision)
